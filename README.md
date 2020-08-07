@@ -1,1 +1,1 @@
-# Freeimage
+Freeimage_PNG
